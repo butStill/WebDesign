@@ -16,3 +16,5 @@
 
 - https://github.com/airbnb/lottie-web
 
+- https://airbnb.design/modern-pictograms-for-lottie/
+
