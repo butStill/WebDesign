@@ -12,3 +12,5 @@
 
 - https://www.botkit.ai/
 
+- https://airbnb.design/lottie/#get-started
+
