@@ -18,3 +18,5 @@
 
 - https://airbnb.design/modern-pictograms-for-lottie/
 
+- https://github.com/material-components/
+
