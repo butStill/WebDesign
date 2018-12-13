@@ -20,3 +20,7 @@
 
 - https://github.com/material-components/
 
+- http://tobiasahlin.com/spinkit/
+
+- https://ant.design/components/skeleton/
+
