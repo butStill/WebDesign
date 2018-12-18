@@ -24,3 +24,8 @@
 
 - https://ant.design/components/skeleton/
 
+- https://www.uplabs.com/web
+
+- https://www.uplabs.com/posts/pizza-ordering-interaction-design
+
+- https://dribbble.com/, https://www.pinterest.com.au/, https://www.pages.xyz/
