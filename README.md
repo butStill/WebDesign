@@ -31,3 +31,5 @@
 - https://dribbble.com/, https://www.pinterest.com.au/, https://www.pages.xyz/
 
 - http://tobiasahlin.com/blog/tutorials/
+
+- https://www.npmjs.com/package/react-spinners
