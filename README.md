@@ -35,3 +35,5 @@
 - https://www.npmjs.com/package/react-spinners
 
 - https://designmodo.com/
+
+- https://algorithms.design/
