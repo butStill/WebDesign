@@ -37,3 +37,7 @@
 - https://designmodo.com/
 
 - https://algorithms.design/
+
+
+
+http://esummarizer.com/main/summarize --> summarizers
