@@ -38,6 +38,12 @@
 
 - https://algorithms.design/
 
+https://www.awwwards.com/
 
+https://dribbble.com/shots
+
+https://www.behance.net/featured
+
+Dribble 404 webpage --> https://dribbble.com/shots/hGNF
 
 http://esummarizer.com/main/summarize --> summarizers
